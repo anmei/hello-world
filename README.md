@@ -1,4 +1,5 @@
 # hello-world
-my first git repository
 
-note: develop env,do not commit.
+my first git repository
+people 1 develop environment,please do not change it please!
+
